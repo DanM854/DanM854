@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋Hello there, I'm Daniel 📎
 
-<!--
-**DanM854/DanM854** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+## About me
+:books: CS and AI student at Sergio Arboleda University
 
-Here are some ideas to get you started:
+:pencil: Learning Web Development and Data Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Colombia. :colombia:
+
+
+📫 How to reach:
+
+[![Email](https://img.shields.io/badge/Email-daniel&#46;dev@gmail&#46;com-red?logo=gmail&logoColor=red)](mailto:danielleonardomora.04@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Mora-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-mora-523a16290/) [![Instagram](https://img.shields.io/badge/Instagram-Tu_Usuario-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/tu_usuario/)
+
+---
+
+### 🈺 Currently Working On 
