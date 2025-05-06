@@ -13,7 +13,7 @@
 [![Email](https://img.shields.io/badge/Email-daniel&#46;dev@gmail&#46;com-red?logo=gmail&logoColor=red)](mailto:danielleonardomora.04@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Mora-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-mora-523a16290/) [![Instagram](https://img.shields.io/badge/Instagram-dmora.04-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/dmora.04/)
 
 
-### What I Use :brain:
+## What I Use :brain:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanM854&layout=compact&theme=dark&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
@@ -21,7 +21,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ---
 
-### 🈺 Currently Working On 
+## 🈺 Currently Working On 
 
 | Project | Description | Last Commit | 
 | --- | --- | --- |
