@@ -1,11 +1,8 @@
 # 👋 Hello there, I'm Daniel 📎
 
-## About me
-:books: CS and AI student at Sergio Arboleda University
+## About Me
 
-:pencil: Learning Web Development and Data Science
-
-📍 Colombia. :colombia:
+:books: CS and AI student at Sergio Arboleda University :colombia:
 
 🏆 My work: <u>*Link to page*</u>
 
