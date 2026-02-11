@@ -16,7 +16,7 @@
 ## What I Use :brain:
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanM854&layout=compact&langs_count=8&hide=html%2Ccss)](https://github.com/DanM854)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanM854&layout=compact&langs_count=8&hide=html%2Ccss)](https://github.com/DanM854)
 
 
 
