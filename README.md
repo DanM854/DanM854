@@ -15,8 +15,7 @@
 
 ## What I Use :brain:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanM854&layout=compact&langs_count=5&hide=html%2Ccss)](https://github.com/DanM854)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanM854&layout=compact&theme=radical&hide=html,c%23)](https://github.com/anuraghazra)
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -27,7 +26,7 @@
 | Project | Description | Last Commit | 
 | --- | --- | --- |
 | Dino Portal | Portal to create new dinosaur names, descriptions and pictures using different generative models and RNN's 🦖 | ![GitHub last commit](https://img.shields.io/github/last-commit/DanM854/dinoxd?color=darkgreen)|
-| Rubber Duck 2.0 | Web app to help during debugging using RAG system while improving learning 🦆 | ![GitHub last commit](https://img.shields.io/github/last-commit/DanM854/rubberduck2.0?color=darkgreen)|
+| Rubber Duck 2.0 | Web app to help during debugging using RAG system while improving learning 🦆 | ![GitHub last commit](https://img.shields.io/github/last-commit/AlgorithmicPaws/rubberduck2.0?color=darkgreen)|
 | Email Organizer| Web app to organize your emails. :email: |![GitHub last commit](https://img.shields.io/github/last-commit/DanM854/emailOrganizer?color=darkgreen)|
 | OpenCV Camera App | App for image filters on your camera or photos using OpenCV. :camera: |![GitHub last commit](https://img.shields.io/github/last-commit/DanM854/OpenCV_Camera_App?display_timestamp=committer&color=yellow)|
 | Shiny Dreepy | Practice for API's using the pokeAPI. :lion:| ![GitHub last commit](https://img.shields.io/github/last-commit/DanM854/shiny_dreepy?color=ba1b1d)| 
