@@ -25,7 +25,8 @@
 
 | Project | Description | Last Commit | 
 | --- | --- | --- |
+| Dino Portal | Portal to create new dinosaur names, descriptions and pictures using different generative models and RNN's | ![GitHub last commit](https://github.com/DanM854/dinoxd).|
+| Rubber Duck 2.0 | Web app to help during debugging using RAG system while improving learning 🦆 | ![GitHub last commit](https://github.com/AlgorithmicPaws/rubberduck2.0).|
 | Email Organizer| Web app to organize your emails. :email: |![GitHub last commit](https://img.shields.io/github/last-commit/DanM854/emailOrganizer?color=darkgreen)|
 | OpenCV Camera App | App for image filters on your camera or photos using OpenCV. :camera: |![GitHub last commit](https://img.shields.io/github/last-commit/DanM854/OpenCV_Camera_App?display_timestamp=committer&color=yellow)|
 | Shiny Dreepy | Practice for API's using the pokeAPI. :lion:| ![GitHub last commit](https://img.shields.io/github/last-commit/DanM854/shiny_dreepy?color=ba1b1d)| 
-| Focus Timers | Pomodoro timer for productive study/work sessions. :tomato: |![GitHub last commit](https://img.shields.io/github/last-commit/AlgorithmicPaws/focus-timers-ing?display_timestamp=committer&color=darkorange)|
